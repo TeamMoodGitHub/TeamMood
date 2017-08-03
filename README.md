@@ -13,4 +13,5 @@ I also had a little "Join TeamMood" button at the top where you could drop me yo
 *ENTER TEAM MOOD*
 
 
-**What is TeamMood?**
+**Team Mood Manual**
+https://docs.google.com/document/d/1T7AoAXFJg0egptt98TzHYCt6jMm0f5XBKx1ZsrLYjno/edit?usp=sharing
